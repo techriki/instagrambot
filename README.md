@@ -1,16 +1,16 @@
-## InstaBot
+## instagrambot
 
-InstaBot v 1.1.0 
+instagrambot 
 
-If you want to join the instabot.py team or have something to say - <a href="https://github.com/LevPasha">write to me</a>.
+If you want to join the instabot.py team or have something to say - <a href="https://github.com/techriki">write to me</a>.
 
 Works without the new Instagram [api][1](the new review process)
 Username and password stored locally. Written in Python!
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7BMM6JGE73322&lc=US&item_name=GitHub%20donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
-<a href="https://github.com/LevPasha/Instagram-bot-cs" title="Instagram C# bot"><img src="https://img.shields.io/badge/C%23%20InstaBot-v1.0-blue.svg"></a>
-<a href="https://github.com/LevPasha/Instagram-API-python" title="python Instagram API"><img src="https://img.shields.io/badge/python%20InstaAPI-v%20b0.0.1-orange.svg"></a>
-<a href="https://t.me/joinchat/AAAAAEG_8hv3PIJnmq1VVg" title="Chat on Telegram"><img src="https://img.shields.io/badge/chat%20on-Telegram-brightgreen.svg"></a>
+<a href="https://www.youtube.com/channel/UCsVRHH2mWjDEm50DVYlLUOA?sub_confirmation=1" title="Support project"><img src="https://pbs.twimg.com/profile_images/930116543899414533/Yc3hNq6J_400x400.jpg"></a>
+<a href="https://www.instagram.com/riki_8040" title="Instagram C# bot"><img src="https://www.swensonbookdevelopment.com/wp-content/uploads/2017/06/instagram.jpg"></a>
+<a href="https://github.com/techriki" title="python Instagram API"><img src="https://pbs.twimg.com/media/DQRCZZtUEAA9Aqh.jpg:large"></a>
+<a href="https://t.me/joinchat/AAAAAEG_8hv3PIJnmq1VVg" title="Chat on Telegram"><img src="https://twitter.com/riki_8040"></a>
 
 ## Requirements
 `Python2.7` minimum
