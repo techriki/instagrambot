@@ -1,8 +1,7 @@
 ## instagrambot
 
 instagrambot 
-
-If you want to join the instabot.py team or have something to say - <a href="https://github.com/techriki">write to me</a>.
+ - <a href="https://github.com/techriki">write to me</a>.
 
 Works without the new Instagram [api][1](the new review process)
 Username and password stored locally. Written in Python!
