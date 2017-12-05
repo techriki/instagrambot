@@ -15,7 +15,7 @@ Username and password stored locally. Written in Python!
 ## Requirements
 `Python2.7` minimum
 A working Instagram account
-(`instabot.py` file must be in `UTF-8` encoding if you use `Python 3`, or `ASCII` in `Python 2` ([PEP][3])!)
+(`instagrambot.py` file must be in `UTF-8` encoding if you use `Python 3`, or `ASCII` in `Python 2` ([PEP][3])!)
 
 ## How to install and run:
 1) Download and install `Python` to your computer.
