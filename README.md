@@ -207,16 +207,6 @@ bot = InstaBot('login', 'password')
 bot.get_media_id_by_tag('python')
 bot.like_all_exist_media(4)
 ```
-## Video Tutorials
-
-The following video tutorials demo setting up and running the bot on Windows and Mac/Linux:
-
-### Windows instabot.py tutorial
-[![Instabot.py Windows Setup](https://img.youtube.com/vi/V8P0UCrACA0/0.jpg)](https://www.youtube.com/watch?v=V8P0UCrACA0)
-
-### Mac/Linux instabot.py tutorial
-[![Instabot.py Mac/Linux Setup](https://img.youtube.com/vi/ASO-cZO6uqo/0.jpg)](https://www.youtube.com/watch?v=ASO-cZO6uqo)
-
 ## Tested on:
 Windows - Python 3.4 & Python 2.7.11
 
@@ -231,17 +221,14 @@ Don't worry the bot will not:
 - Like - comment or follow your own account or media
 - Comment a media already commented
 
-## Works with [InstagramAPI.py][4]
-I rewrote, created by @mgp25 PHP class, to work with the Instagram API. This class gives ALL access to Instagram (login, post photo/video, comment, follow, get followers and etc.). This class pretends device on android and can work like android APP. In future, I will rewrite all this bot to InstagramAPI.py.
-
 This class not ready for 100%, but I make most important things and you can work with it.
 
 ## Community
 
-- [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
-- [Facebook Group](https://www.facebook.com/groups/instabot/)
+- [instagram](https://www.instagram.com/riki_8040)
+- [Twitter](https://twitter.com/riki_8040)
 
 [1]: http://developers.instagram.com/post/133424514006/instagram-platform-update
 [2]: https://www.instagram.com
 [3]: https://www.python.org/dev/peps/pep-0008/#source-file-encoding
-[4]: https://github.com/LevPasha/Instagram-API-python
+[4]: https://github.com/techriki/instagrambot
