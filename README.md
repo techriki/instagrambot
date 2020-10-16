@@ -231,3 +231,8 @@ This class not ready for 100%, but I make most important things and you can work
 [2]: https://www.instagram.com
 [3]: https://www.python.org/dev/peps/pep-0008/#source-file-encoding
 [4]: https://github.com/techriki/instagrambot
+
+
+https://www.techriki.tech/how-to-agency-registration-on-pfms-online/
+https://www.techriki.tech/
+https://androidalexa.com/
