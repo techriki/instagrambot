@@ -2,6 +2,13 @@
 
 instagrambot 
  - <a href="https://github.com/techriki">write to me</a>.
+ <a href="www.djsong.online">Pretty! This was a really wonderful article. </a>
+<a href="www.djsong.online/first-kiss-yo-yo-honey-singh-mp3-song-download/">Many thanks for </a>
+<a href="www.djsong.online/gulabi-rang-nimrat-khaira-mp3-song-download/" rel="nofollow">providing these</a>
+<a href="www.techriki.tech/" rel="nofollow">these </a>
+<a href="www.androidalexa.com/" rel="nofollow">details </a>
+
+
 
 Works without the new Instagram [api][1](the new review process)
 Username and password stored locally. Written in Python!
